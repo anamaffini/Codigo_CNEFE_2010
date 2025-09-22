@@ -1,6 +1,6 @@
 # Código CNEFE 2010: An open pipeline for spatializing and categorizing the 2010 CNEFE in Brazil
 
-## Overview
+## Overview 
 **CNEFE-Faces** is an open-source Python pipeline designed to work with the *Cadastro Nacional de Endereços para Fins Estatísticos* (CNEFE 2010), produced by IBGE.  
 
 The software automates the process of:

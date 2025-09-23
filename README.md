@@ -95,6 +95,6 @@ matplotlib
 ## Citation
 If you use this software, please cite:
 
-Maffini, A. L. (2025). *Codigo_CNEFE_2010: an open pipeline for spatializing and categorizing the 2010 CNEFE in Brazil*. Journal of Open Source Software (submitted).  
+Maffini, A. L. (2025). *Codigo_CNEFE_2010: an open pipeline for spatializing and categorizing the 2010 CNEFE in Brazil*. [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17165102.  
 
 --- 
